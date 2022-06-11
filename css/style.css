@@ -18,4 +18,5 @@ img:hover {
 
 .circular {
   border-radius: 100%
+    position: fixed;
 }
